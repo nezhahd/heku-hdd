@@ -7,6 +7,7 @@
 一、操作步骤：
 
 1、在浏览器复制链接   https://dashboard.heroku.com/new?template= 加上你自定义的项目链接
+本项目:https://dashboard.heroku.com/new?template=https://github.com/nezhahd/heku-hdd
 
 
 
